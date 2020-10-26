@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\048409\\Source\\Repos\\outerTest\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\048409\\Source\\Repos\\outerTest\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\048409\\Source\\Repos\\outerTest\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\source\\repos\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\xuyling\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\048409\\Source\\Repos\\outerTest\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\048409\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\048409\\Source\\Repos\\outerTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xuyling\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\048409\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

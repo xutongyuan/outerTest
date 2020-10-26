@@ -16,7 +16,6 @@ namespace WebApplication1.Controllers
             string a = Request.Query["name"];
            
             string b = Request.Form["name"];
-            string b = Request.Form("name");
             string c = Request.Headers["name"];
             string d = Request.Cookies["name"];
             HttpContext.Session.SetString("name","test");
